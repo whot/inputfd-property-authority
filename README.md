@@ -90,3 +90,6 @@ In alphabetical order.
   * **```wheel```**: a steering wheel
   * **```footpedal```**: a foot pedal
   * **```touchpad```**: a touchpad input device
+* **```IFDA_VERSION```**:
+  A decimal number denoting the IFDA version supported by this sender. This
+  is an incremental version like e.g. systemd uses, **not** a semantic version.
